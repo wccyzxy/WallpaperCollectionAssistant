@@ -7,8 +7,8 @@
 - 保存收藏：快速将喜爱的壁纸保存到单独的文件夹，方便访问和组织。
 
 ### 效果图
-[](https://github.com/wccyzxy/WallpaperCollectionAssistant/blob/main/01.png)
-[](https://github.com/wccyzxy/WallpaperCollectionAssistant/blob/main/02.png)
+![image](https://github.com/wccyzxy/WallpaperCollectionAssistant/blob/main/01.png)
+![image](https://github.com/wccyzxy/WallpaperCollectionAssistant/blob/main/02.png)
 
 ### 使用
 1. 将需要进行筛选的图片复制进入`wallpapers`目录
